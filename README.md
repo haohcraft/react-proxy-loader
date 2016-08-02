@@ -1,3 +1,8 @@
+# Note
+
+This fork is to bring the good part of react-route-proxy-loader to react-proxy-loader to make it es6 import friendly
+
+
 # react-proxy-loader
 
 Wraps a react component in a proxy component to enable Code Splitting (loads a react component and its dependencies on demand).
